@@ -1,0 +1,15 @@
+uuid: a7b3b4fe-794f-4a64-994f-da4421c1821a
+langcode: tr
+status: true
+dependencies: {  }
+name: manset_760x400
+label: 'Manşet 760x400'
+effects:
+  58a3823e-ab7b-4c05-b786-8b48747d432f:
+    uuid: 58a3823e-ab7b-4c05-b786-8b48747d432f
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 760
+      height: 400
+      anchor: center-center

@@ -1,0 +1,25 @@
+uuid: 0081903a-5080-4b47-8b9f-4101c1303810
+langcode: tr
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:03f5c5d2-5474-4c8a-9f60-c3a26000b5e6'
+  module:
+    - block_content
+  theme:
+    - conference_lite
+id: aramablok
+theme: conference_lite
+region: header_third
+weight: 0
+provider: null
+plugin: 'block_content:03f5c5d2-5474-4c8a-9f60-c3a26000b5e6'
+settings:
+  id: 'block_content:03f5c5d2-5474-4c8a-9f60-c3a26000b5e6'
+  label: 'Arama Blok'
+  provider: block_content
+  label_display: '0'
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }
