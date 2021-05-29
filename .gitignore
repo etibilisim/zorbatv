@@ -16,6 +16,7 @@
 
 # Ignore Drupal's files directory
 /drupal/web/sites/*/files/
+/drupal/web/sites/*/files.zip
 
 # Ignore .env files as they are personal
 .editorconfig
